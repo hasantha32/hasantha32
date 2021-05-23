@@ -66,7 +66,14 @@ I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
 <br >
 
 Projects!
+.....
 
+JAVA      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+CSS       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML      1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+YAML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
 
 
 
@@ -79,10 +86,3 @@ Projects!
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 
-
-JAVA      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-CSS       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-HTML      1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
