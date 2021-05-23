@@ -1,5 +1,4 @@
 
-
 ## Hi I'm Hasantha Madushan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
@@ -8,7 +7,7 @@ I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@hasantha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Hasantha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasantha-madushan/) [![Mail Badge](https://img.shields.io/badge/-@hasantha_madushan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hasantha_madushan) [![Mail Badge](https://img.shields.io/badge/-hasanthamadushan32-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hasanthamadushan32@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@hasantha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Hasantha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasantha-madushan/) [![Mail Badge](https://img.shields.io/badge/-@hasantha_madushan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Hasantha madushan) [![Mail Badge](https://img.shields.io/badge/-hasanthamadushan32-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Hasanthamadushan32@gmail.com)
 
 
 <!-- TODO: Add last video link -->
