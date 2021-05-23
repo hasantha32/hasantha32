@@ -64,20 +64,6 @@ I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
 
 Projects!
 
-
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–“â–‘â–‘â–‘â–‘   82.29 % 
-HTML         1 hr 50 mins    â–ˆâ–ˆâ–’â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   09.61 % 
-Markdown     1 hr 27 mins    â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   07.63 % 
-Other        2 mins          â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   00.25 % 
-YAML         2 mins          â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   00.19 % 
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Hasantha's github stats](https://github-readme-stats.vercel.app/api?username=hasantha32&count_private=true&theme=tokyonight&hide=contribs,prs)
