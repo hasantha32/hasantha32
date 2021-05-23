@@ -57,18 +57,11 @@ I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
 
 - :email: hasanthamadushan32@gmail.com
 
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hasantha32.hasantha32)
-
-
 <br >
 
 Projects!
 
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hasantha32.hasantha32)
 
 ![Hasantha's github stats](https://github-readme-stats.vercel.app/api?username=hasantha32&count_private=true&theme=tokyonight&hide=contribs,prs)
 
