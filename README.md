@@ -5,7 +5,7 @@ I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-hasantha-madushan-?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasantha-madushan/) [![Mail Badge](https://img.shields.io/badge/-@hasanthamadushan32?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hasantha) [![Mail Badge](https://img.shields.io/badge/-Hasantha?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hasanthamadushan32@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-hasantha-madushan-?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasantha-madushan/) [![Mail Badge](https://img.shields.io/badge/-@hasanthamadushan32?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hasantha_madushan) [![Mail Badge](https://img.shields.io/badge/-Hasantha?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hasanthamadushan32@gmail.com)
 
 <!-- TODO: Add last video link -->
 
