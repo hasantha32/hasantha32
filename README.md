@@ -72,11 +72,7 @@ Projects!
 
 ![Hasantha's github stats](https://github-readme-stats.vercel.app/api?username=hasantha32&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-JAVA      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-CSS       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-HTML      1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
 ```
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
