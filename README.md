@@ -69,7 +69,7 @@ Projects!
 ![Hasantha's github stats](https://github-readme-stats.vercel.app/api?username=hasantha32&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasantha3&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasantha32&theme=dark)
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
