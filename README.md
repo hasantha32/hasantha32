@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi I'm Hasantha Madushan  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img hight="50%" align="center" src="https://wallpapercave.com/wp/wp6965255.jpg"/>
+<img height="40%" align="center" src="https://wallpapercave.com/wp/wp6965255.jpg"/>
 
 <h3 align="center">I'm Hasantha Madushan. I Spend most of time coding outstanding projects .</h3>
 
