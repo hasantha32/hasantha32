@@ -1,10 +1,11 @@
 
-## Hi I'm Hasantha Madushan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Harikrushn Kanani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-I'm Hasantha Madushan. I Spend most of time coding outstanding projects .
+<h3 align="center">I'm Hasantha Madushan. I Spend most of time coding outstanding projects .</h3>
 
 :mailbox: Reach me out!
-
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@hasantha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Hasantha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasantha-madushan-045139208/) [![Mail Badge](https://img.shields.io/badge/-@hasantha_madushan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hasantha_madushan) [![Mail Badge](https://img.shields.io/badge/-hasanthamadushan32-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Hasanthamadushan32@gmail.com)
