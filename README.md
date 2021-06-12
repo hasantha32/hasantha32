@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hi I'm Hasantha Madushan  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://t3.ftcdn.net/jpg/02/36/08/40/360_F_236084095_fcsVPPzPEa1n0a6CeAhpX1s8zjVshP5C.jpg"/>
+<img width="40%" src="https://t3.ftcdn.net/jpg/02/36/08/40/360_F_236084095_fcsVPPzPEa1n0a6CeAhpX1s8zjVshP5C.jpg"/>
 
 <h3 align="center">I'm Hasantha Madushan. I Spend most of time coding outstanding projects .</h3>
 
-<img width="40%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/02/36/08/40/360_F_236084095_fcsVPPzPEa1n0a6CeAhpX1s8zjVshP5C.jpg" />
+<img width="50%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/02/36/08/40/360_F_236084095_fcsVPPzPEa1n0a6CeAhpX1s8zjVshP5C.jpg" />
 
 :mailbox: Reach me out!
 
