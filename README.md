@@ -71,8 +71,7 @@ Projects!
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasantha32&theme=dark)
 
 
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasantha32&hide=scss&layout=compact&theme=tokyonight)
+``![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasantha32&hide=scss&layout=compact&theme=tokyonight)
 
 
 
