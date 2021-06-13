@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm Hasantha Madushan. I Spend most of time coding outstanding projects .</h3>
 
-<img width="50%" align="right" alt="Github Image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIs6TeelRVec7PqB1WDYfHjf1f-5Qbtp647xDigWmLa5CY86U&s" />
+<img width="50%" align="right" alt="Github Image" src="https://c4.wallpaperflare.com/wallpaper/447/728/906/core-cortana-blue-stylish-wallpaper-preview.jpg" />
 
 :mailbox: Reach me out!
 
