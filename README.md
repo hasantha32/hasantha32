@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi I'm Hasantha Madushan  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hi I'm Hasantha Madushan  ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img align="center" src="https://png.pngtree.com/thumb_back/fw800/background/20201028/pngtree-digital-technology-data-transfer-with-grid-system-background-image_437331.jpg"/>
 
