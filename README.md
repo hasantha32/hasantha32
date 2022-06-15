@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi I'm Hasantha Madushan  ! </h1>
-![hasantha32 snake gif](https://github.com/hasantha32/hasantha32/blob/output/github-contribution-grid-snake.svg)
+!![Shehanka snake gif](https://github.com/hasantha32/hasantha32/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
