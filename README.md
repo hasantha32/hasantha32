@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi I'm Hasantha Madushan  ! </h1>
+<h1 align="center"> Hi I'm Hasantha Madhushan  ! </h1>
 
 ![hasantha32 snake gif](https://github.com/hasantha32/hasantha32/blob/output/github-contribution-grid-snake.svg)
 
