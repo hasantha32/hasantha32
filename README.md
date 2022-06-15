@@ -1,9 +1,9 @@
 
 <h1 align="center"> Hi I'm Hasantha Madushan  ! </h1>
-<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+![hasantha32 snake gif](https://github.com/hasantha32/hasantha32/blob/output/github-contribution-grid-snake.svg)
 <img align="center" src="https://png.pngtree.com/thumb_back/fw800/background/20201028/pngtree-digital-technology-data-transfer-with-grid-system-background-image_437331.jpg"/>
 
-<h3 align="center">I'm Hasantha Madushan. I Spend most of time coding outstanding projects .</h3>
+
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
