@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hi I'm Hasantha Madushan  ! </h1>
 ![hasantha32 snake gif](https://github.com/hasantha32/hasantha32/blob/output/github-contribution-grid-snake.svg)
-<img align="center" src="https://png.pngtree.com/thumb_back/fw800/background/20201028/pngtree-digital-technology-data-transfer-with-grid-system-background-image_437331.jpg"/>
-
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
