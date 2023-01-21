@@ -58,12 +58,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasantha32.hasantha32)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hasantha32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
-<!-- 
+
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasantha32&theme=dark)
-
+<!-- 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasantha32&hide=scss&layout=compact&theme=tokyonight)
 
